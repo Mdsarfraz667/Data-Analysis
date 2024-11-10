@@ -1,4 +1,4 @@
-# Frontend Data Analysis
+#  Data Analysis
 
 This project is a data analysis tool built with React and Vite. It aggregates and visualizes crop production data, displaying it in two interactive tables. The first table shows the data aggregated by year, and the second table shows the data aggregated by crop name over a period from 1950 to 2020.
 
@@ -68,7 +68,8 @@ This will bundle your project and output the static files into the `dist` direct
 ### Folder Structure
 
 ```bash
-frontend-data-analysis/
+
+data-analysis/
 ├── public/
 │   ├── vite.svg
 │   └── screenshots/
