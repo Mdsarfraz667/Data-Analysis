@@ -73,29 +73,29 @@ This table displays crop production data aggregated by year, showing the crop wi
 
 ### Part 1 of Table 1:
 
-![Part 1 of Table 1](screenshots\Screenshot (616).png)
+![Part 1 of Table 1](screenshots/Screenshot616.png)
 
 ### Part 2 of Table 1:
 
-![Part 2 of Table 1](screenshots\Screenshot (617).png)
+![Part 2 of Table 1](screenshots/Screenshot617.png)
 
 ### Part 3 of Table 1:
 
-![Part 3 of Table 1](screenshots\Screenshot (618).png)
+![Part 3 of Table 1](screenshots/Screenshot618.png)
 
 ### Part 4 of Table 1:
 
-![Part 4 of Table 1](screenshots\Screenshot (619).png)
+![Part 4 of Table 1](screenshots/Screenshot619.png)
 
 ### Part 5 of Table 1:
 
-![Part 5 of Table 1](screenshots\Screenshot (620).png)
+![Part 5 of Table 1](screenshots/Screenshot620.png)
 
 ### Table 2: Data by Crop Name (1950-2020)
 
 This table shows the average yield and cultivation area for each crop from 1950 to 2020.
 
-![Table 2 Screenshot](screenshots\Screenshot (621).png)
+![Table 2 Screenshot](screenshots/Screenshot621.png)
 
 ## License
 
