@@ -1,7 +1,7 @@
 import "@mantine/core/styles.css";
 import "./App.css";
 import { Container, MantineProvider } from "@mantine/core";
-import CropTables from "./components/CropTable1";
+import CropTables from "./components/CropTable";
 function App() {
   return (
     <MantineProvider>
