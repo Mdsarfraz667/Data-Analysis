@@ -65,6 +65,47 @@ npm run build
 
 This will bundle your project and output the static files into the `dist` directory.
 
+### Folder Structure
+
+```bash
+frontend-data-analysis/
+├── public/
+│   ├── vite.svg
+│   └── screenshots/
+│       ├── Screenshot616.png
+│       ├── Screenshot617.png
+│       ├── Screenshot618.png
+│       ├── Screenshot619.png
+│       └── Screenshot620.png
+├── src/
+│   ├── App.css
+│   ├── App.tsx
+│   ├── index.css
+│   ├── main.tsx
+│   ├── vite-env.d.ts
+│   ├── assets/
+│   │   └── react.svg
+│   ├── components/
+│   │   ├── CropTable1.tsx
+│   │   └── CropTable2.tsx
+│   └── utilities/
+│       ├── data.ts
+│       ├── helper.ts
+│       └── aggegrateFuncion/
+│           ├── aggregateDataByCrop.tsx
+│           └── aggregateDateByYear.tsx
+├── .gitignore
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.cjs
+├── README.md
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+```
+
 ## Screenshots
 
 ### Table 1: Data by Year
