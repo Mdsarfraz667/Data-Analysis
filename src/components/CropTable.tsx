@@ -7,8 +7,11 @@ import { calculateAggregates } from "../utilities/aggegrateFuncion/aggregateDate
 
 // Component to render the tables
 export const CropTables: React.FC = () => {
-  const cropData = aggregateDataByCrop(data);
+  // calculate the crops with maximum and minimum production for each year
   const yearlyData = calculateAggregates(data);
+
+  // // Function to calculate the Aggregate data by crop name
+  const cropData = aggregateDataByCrop(data);
 
   return (
     <Container>

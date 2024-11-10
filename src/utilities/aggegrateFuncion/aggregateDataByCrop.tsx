@@ -1,7 +1,7 @@
 import { Crop } from "../data";
 import { CropData } from "../data";
 
-// Aggregate data by crop name
+// Function to calculate the Aggregate data by crop name
 export const aggregateDataByCrop = (data: Crop[]): CropData[] => {
   // Initialize a map to store total yield, total area, and count for each crop name
   const cropData = new Map<
