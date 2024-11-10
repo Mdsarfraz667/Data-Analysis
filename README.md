@@ -86,7 +86,7 @@ frontend-data-analysis/
 │   ├── assets/
 │   │   └── react.svg
 │   ├── components/
-│   │   ├── CropTable1.tsx
+│   │   ├── CropTable.tsx
 │   │
 │   └── utilities/
 │       ├── data.ts
