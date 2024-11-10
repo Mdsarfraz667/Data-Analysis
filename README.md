@@ -37,7 +37,7 @@ Before getting started, make sure you have the following installed:
 2. Navigate into the project directory:
 
    ```bash
-   cd frontend-data-analysis
+   cd data-analysis
    ```
 
 3. Install the required dependencies:
